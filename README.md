@@ -47,3 +47,6 @@ For example in following code, we create a view that display an image as static 
 ## Additional information
 
 If you have problem or need some options, send it in github issues.
+And i will be happy if you want contribute to improve this package and i will name you in contributors section.
+
+## Contributors
