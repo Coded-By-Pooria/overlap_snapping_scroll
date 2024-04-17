@@ -58,11 +58,7 @@ class _RenderOverlapSliverStaticPart extends RenderSliverToBoxAdapter {
 
     child!.layout(
       constraints.asBoxConstraints(
-        maxExtent: max(
-            shouldAlive
-                ? constraints.remainingPaintExtent
-                : constraints.remainingPaintExtent - scrollOffset,
-            0),
+        maxExtent: constraints.remainingPaintExtent,
       ),
       parentUsesSize: true,
     );
