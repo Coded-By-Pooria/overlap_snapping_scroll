@@ -1,6 +1,6 @@
 name: overlap_snapping_sliver
 description: 'A simple flutter sliver to handle an overlap state when one mobile part moves on static part with snap feature.'
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Coded-By-Pooria/overlap_snapping_scroll
 repository:
 
